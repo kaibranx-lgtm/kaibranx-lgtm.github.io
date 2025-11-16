@@ -1,0 +1,159 @@
+Kategorie;Nr.;Gericht;Beschreibung;Preis (€)
+Suppen;S1;Linsensuppe (Mercimek);mit Brotbeilage;7.0
+Suppen;S2;Tagessuppe;mit Brotbeilage (bitte nachfragen);8.0
+Kalte Vorspeisen;05;Ispanak Ezmesi;Spinat, Quark, Knoblauch;6.0
+Kalte Vorspeisen;06;Gefüllte Weinblätter;mit Tzatziki;6.0
+Kalte Vorspeisen;07;Calamari;frittiert;9.0
+Vegetarisch;03;Falafel-Tasche;mit Salat & Sauce;6.0
+Vegetarisch;04;Falafel-Teller;mit Salat, Sauce & Pommes oder Reis;11.0
+Fast Food;01;Chicken Nuggets 6 Stk.;mit Pommes & Salat;7.0
+Fast Food;02;Chicken Nuggets Menü;6 Stk. mit Pommes & Softdrink (0,33 l);9.5
+Warme Vorspeisen;08;Antep Ezmesi;Scharfe Sauce mit Paprika;8.5
+Warme Vorspeisen;09;Sigara Böreği (4 Stk.);;6.0
+Warme Vorspeisen;10;Karisik Kizartma;Kartoffeln, Zucchini;9.0
+Warme Vorspeisen;11;Großer gemischter Vorspeisenteller;;11.0
+Dönergerichte;12;Döner-Tasche;mit Salat & Sauce;7.0
+Dönergerichte;13;Döner-Tasche im halben Fladenbrot;;7.0
+Dönergerichte;14;Salat-Tasche;;4.5
+Dönergerichte;15;Döner-Dürüm;im Fladenbrot;7.5
+Dönergerichte;15a;Pommes-Döner;mit Sauce, Tzatziki & Pommes in der Box;8.5
+Dönergerichte;16;Kinder-Döner-Teller;mit Salat, Tzatziki & Pommes;10.0
+Grillgerichte;17;Döner (Kalb);Pommes nur Fleisch;12.5
+Grillgerichte;18;Döner-Teller komplett;mit Reis oder Pommes;13.0
+Grillgerichte;19;Iskender-Döner;Döner mit Sauce & Joghurt;15.0
+Grillgerichte;20;Hackfleischspieß (Adana Kebap);;18.0
+Grillgerichte;21;Fleischspieß (Kuzu Sis);;19.0
+Grillgerichte;22;Hähnchenspieß (Tavuk Sis);;16.0
+Grillgerichte;23;Lammkotelett (Pirzola);;21.0
+Grillgerichte;24;Lammrippchen (Kaburga);;21.0
+Grillgerichte;25;Hähnchenschenkel (Tavuk Pizola);;14.0
+Grillgerichte;26;Putenbrust (Hindi Biftek);;15.0
+Grillgerichte;27;Gemischter Grillteller (Karisik Izgara);;22.0
+Grillgerichte;28;Gegrillte Frikadellen (Izgara Köfte);;17.0
+Grillgerichte;29;Großer gemischter Grillteller;Salat & Pommes oder Reis;38.0
+Drehspießgerichte – überbacken;30;Döner überbacken I;mit Döner, Tomatensauce, Käse;13.0
+Drehspießgerichte – überbacken;31;Döner überbacken II;mit Döner, Champignons, Käse;13.0
+Gemüsegerichte;32;Gemüsepfanne;mit Reis;14.0
+Gemüsegerichte;33;Gemüsepfanne mit Hähnchenfleisch;mit Reis;15.5
+Gemüsegerichte;34;Gemüsepfanne mit Kalbfleisch;mit Reis;16.5
+Gemüsegerichte;35;Gebratene Champignons;mit Sahnesauce & Reis;14.0
+Gemüsegerichte;36;Gebratene Champignons mit Hähnchenfleisch;mit Sahnesauce & Reis;15.0
+Gemüsegerichte;37;Gebratene Champignons mit Kalbfleisch;mit Sahnesauce & Reis;16.0
+Aufläufe;38;Nudelauflauf;mit Tomaten-Sahnesauce & Käse überbacken;13.0
+Aufläufe;39;Nudelauflauf mit Hähnchen;;14.5
+Aufläufe;40;Nudelauflauf mit Kalbfleisch;;15.0
+Aufläufe;41;Kartoffelauflauf;mit Gemüse & Käse überbacken;13.0
+Aufläufe;42;Kartoffelauflauf mit Hähnchen;;14.5
+Aufläufe;43;Kartoffelauflauf mit Kalbfleisch;;15.0
+Pizza;44;Pizza Margherita;Käse, Tomatensauce;8.0
+Pizza;45;Pizza Salami;Rindersalami;9.0
+Pizza;46;Pizza Schinken;Putenschinken;9.0
+Pizza;47;Pizza Funghi;Champignons;9.0
+Pizza;48;Pizza Tonno;Thunfisch, Zwiebeln;10.0
+Pizza;49;Pizza Hawaii;Schinken, Ananas;10.0
+Pizza;50;Pizza Döner;Kalb- oder Hähnchendöner, Zwiebeln;11.0
+Pizza;51;Pizza Spezial;Salami, Schinken, Champignons, Paprika;11.0
+Pizza;52;Pizza Vegetaria;mit verschiedenem Gemüse;10.0
+Pizza;53;Pizza 4 Jahreszeiten;Salami, Schinken, Champignons, Thunfisch;11.5
+Pizza;54;Pizza Calzone;gefüllte Pizza mit Schinken, Salami, Champignons;11.0
+Pizza;55;Pizza Diavolo;scharf mit Peperoniwurst, Zwiebeln;10.5
+Pizza;56;Pizza Türkisch;mit Hackfleisch, Zwiebeln, Paprika;11.5
+Pizza;57;Pizza BBQ Chicken;Hähnchen, BBQ-Sauce;11.0
+Pizza;58;Pizza 4 Käse;verschiedene Käsesorten;11.5
+Pizza;59;Pizza Capricciosa;Schinken, Champignons, Artischocken;11.0
+Pizza;60;Pizza Chef;Dönerfleisch, Peperoni, Champignons;12.0
+Pizza;61;Pizza Malatya;Hackfleisch, Zwiebeln, Ei;11.5
+Pizza;62;Pizza Mix;Hälfte Salami, Hälfte Döner;11.5
+Pide;63;Pide mit Käse;;9.0
+Pide;64;Pide mit Spinat & Käse;;9.5
+Pide;65;Pide mit Hackfleisch;;10.0
+Pide;66;Pide mit Ei & Sucuk;;10.0
+Pide;67;Pide mit Döner;mit Käse überbacken;11.0
+Pide;68;Pide gemischt;verschiedene Sorten kombiniert;12.0
+Lahmacun;69;Lahmacun;;6.0
+Lahmacun;70;Lahmacun mit Salat & Sauce;;7.5
+Lahmacun;71;Lahmacun mit Dönerfleisch;;9.0
+Burger;72;Hamburger;mit Salat und Sauce;6.0
+Burger;73;Cheeseburger;mit Käse;6.5
+Burger;74;Chicken Burger;mit Hähnchenfilet, Salat & Sauce;7.0
+Burger;75;Döner Burger;mit Dönerfleisch, Sauce & Salat;7.5
+Burger;76;Double Cheeseburger;doppelt Fleisch und Käse;9.5
+Burger;77;BBQ Burger;mit BBQ-Sauce und Zwiebeln;8.5
+Burger;78;Vegi Burger;vegetarisch, mit Salat und Sauce;7.0
+Toast & Sandwiches;79;Toast Salami;mit Käse;6.0
+Toast & Sandwiches;80;Toast Schinken;mit Käse;6.0
+Toast & Sandwiches;81;Döner Sandwich;mit Salat und Sauce;7.0
+Toast & Sandwiches;82;Chicken Sandwich;mit Salat, Tomate & Sauce;7.5
+Snacks;83;Pommes;Portion;4.0
+Snacks;84;Pommes mit Ketchup oder Mayo;;4.5
+Snacks;85;Currywurst mit Pommes;;7.0
+Snacks;86;Bratwurst mit Pommes;;7.0
+Snacks;87;Chicken Wings 6 Stk.;mit Pommes und Salat;9.0
+Snacks;88;Mozzarella Sticks 6 Stk.;mit Sauce;7.0
+Salate;89;Gemischter Salat;mit verschiedenen frischen Gemüsesorten;7.5
+Salate;90;Bauernsalat;mit Tomaten, Gurken, Paprika, Zwiebeln, Oliven, Feta;8.5
+Salate;91;Thunfischsalat;mit Mais, Ei & Dressing;9.5
+Salate;92;Döner Salat;mit Kalb- oder Hähnchendöner, Sauce;10.5
+Salate;93;Chicken Salat;mit gebratenen Hähnchenstreifen;10.5
+Salate;94;Falafel Salat;mit Sauce & Fladenbrot;9.5
+Salate;95;Fitness Salat;mit Hähnchenbrust & Ei;11.0
+Salate;96;Mozzarella Salat;mit Tomaten, Mozzarella, Basilikum & Dressing;9.5
+Salate;97;Italienischer Salat;mit Schinken, Käse, Ei & Dressing;10.0
+Kindergerichte;98;Kinder-Döner;kleine Portion, mit Pommes;8.0
+Kindergerichte;99;Kinder-Nuggets;4 Stk. mit Pommes;7.0
+Kindergerichte;100;Kinder-Spaghetti;mit Tomatensauce;7.5
+Kindergerichte;101;Kinder-Pizza;mit Käse & Salami;7.5
+Kindergerichte;102;Kinder-Teller;kleine Portion vom Döner mit Pommes;9.0
+Kindergerichte;103;Kinder-Currywurst;mit Pommes;7.0
+Kindergerichte;104;Kinder-Chickenburger;mit Pommes;8.0
+Pasta;105;Spaghetti Napoli;mit Tomatensauce;9.0
+Pasta;106;Spaghetti Bolognese;mit Rinderhackfleischsauce;10.0
+Pasta;107;Spaghetti Carbonara;mit Sahnesauce, Schinken, Ei;10.5
+Pasta;108;Spaghetti Gorgonzola;mit Sahnesauce & Gorgonzola;10.5
+Pasta;109;Spaghetti mit Hähnchen;in Curry-Sahnesauce;11.0
+Pasta;110;Spaghetti Meeresfrüchte;mit Knoblauch & Tomatensauce;12.0
+Pasta;111;Tortellini alla Panna;mit Schinken & Sahnesauce;10.5
+Pasta;112;Tortellini Bolognese;mit Hackfleischsauce;10.5
+Pasta;113;Penne Arrabiata;pikant mit Tomatensauce & Knoblauch;9.5
+Pasta;114;Penne al Forno;mit Tomatensahnesauce & Käse überbacken;11.0
+Pasta;115;Penne Chicken;mit Hähnchen & Sahnesauce;11.0
+Internationale Gerichte;116;Schnitzel Wiener Art;mit Pommes & Salat;13.0
+Internationale Gerichte;117;Jägerschnitzel;mit Pilzsauce, Pommes & Salat;14.0
+Internationale Gerichte;118;Zigeunerschnitzel;mit Paprikasauce, Pommes & Salat;14.0
+Fischgerichte;119;Calamaris Teller;mit Pommes & Salat;14.0
+Fischgerichte;120;Zanderfilet;gegrillt, mit Reis & Salat;17.0
+Fischgerichte;121;Lachsfilet;gegrillt, mit Gemüse & Salat;18.0
+Fischgerichte;122;Scampi Pfanne;mit Knoblauch, Reis & Salat;19.0
+Beilagen;123;Pommes;;4.0
+Beilagen;124;Reis;;3.5
+Beilagen;125;Bulgur;;3.5
+Beilagen;126;Tzatziki;;3.5
+Beilagen;127;Extra Sauce;(z. B. Knoblauch, Cocktail, Kräuter, scharf);1.0
+Beilagen;128;Brot;Fladenbrot oder Weißbrot;1.5
+Beilagen;129;Portion Fleisch;Kalb oder Hähnchen;8.0
+Beilagen;130;Käse überbacken;Aufpreis;2.0
+Beilagen;131;Extra Gemüse;;4.0
+Getränke (Kalt);132;Coca-Cola 0,33 l;;2.5
+Getränke (Kalt);133;Coca-Cola Zero 0,33 l;;2.5
+Getränke (Kalt);134;Fanta 0,33 l;;2.5
+Getränke (Kalt);135;Sprite 0,33 l;;2.5
+Getränke (Kalt);136;Mezzo Mix 0,33 l;;2.5
+Getränke (Kalt);137;Uludag Gazoz 0,33 l;türkische Limonade;2.5
+Getränke (Kalt);138;Ayran;Joghurtgetränk;2.0
+Getränke (Kalt);139;Mineralwasser 0,5 l;;2.0
+Getränke (Kalt);140;Eistee Zitrone oder Pfirsich 0,5 l;;2.5
+Getränke (Kalt);141;Red Bull 0,25 l;;3.5
+Getränke (Kalt);142;Apfelschorle 0,5 l;;2.5
+Getränke (Kalt);143;Spezi 0,5 l;;2.5
+Getränke (Kalt);144;Cola 1,0 l;;4.0
+Getränke (Kalt);145;Fanta 1,0 l;;4.0
+Getränke (Kalt);146;Sprite 1,0 l;;4.0
+Getränke (Kalt);147;Ayran groß 0,5 l;;3.0
+Getränke (Heiß);148;Türkischer Tee;Glas;1.5
+Getränke (Heiß);149;Türkischer Mokka;;2.5
+Getränke (Heiß);150;Kaffee;;2.5
+Getränke (Heiß);151;Cappuccino;;3.0
+Getränke (Heiß);152;Latte Macchiato;;3.5
+Desserts;153;Baklava 3 Stk.;hausgemacht;4.5
+Desserts;154;Künefe;mit Käse, warm serviert;6.5
+Desserts;155;Tiramisu;hausgemacht;5.5
