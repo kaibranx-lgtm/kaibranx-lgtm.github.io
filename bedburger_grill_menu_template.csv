@@ -1,0 +1,29 @@
+code,category,name,description,price_eur
+10,Dönergerichte,Döner im Brot,mit Salat & Sauce,6.5
+11,Dönergerichte,Dürüm Döner,"gerolltes Fladenbrot mit Dönerfleisch, Salat & Sauce",7.0
+12,Dönergerichte,Lahmacun Döner,türkische Pizza mit Dönerfleisch,7.5
+13,Beilagen,Pommes,knusprige Pommes frites,3.0
+14,Getränke,Cola/Fanta,"0,33l",2.0
+15,Kids,Kidz Box,"mit Getränk, Pommes oder Nuggets, Überraschung",8.5
+17,Grillgerichte,Döner Teller,Dönerfleisch mit Beilage,12.5
+18,Grillgerichte,Döner Teller Komplett,mit Reis oder Pommes & Salat,13.0
+20,Grillgerichte,Iskender-Döner,Döner mit Tomatensauce & Joghurt,12.0
+31,Überbacken,Döner überbacken,mit Käse aus dem Ofen,13.0
+32,Überbacken,Döner mit Gemüse überbacken,Gemüseauflauf mit Döner,13.0
+38,Überbacken,Döner Hawaii überbacken,"Döner, Ananas, Sahne, Käse",13.0
+51,Pasta,Spaghetti Napoli,mit Tomatensauce,7.0
+51a,Pasta,Spaghetti Tonno,mit Thunfisch & Zwiebeln,8.5
+55,Pasta,Maccheroni Napoli,mit Tomatensauce,7.0
+61,Steaks,Bistecca Pfeffer,Rumpsteak mit Pfeffersauce,24.0
+72,Burger,Hamburger,Classic Burger,4.0
+73,Burger,Cheeseburger,mit Käse,4.5
+74,Burger,Chicken-Burger Menü,mit Pommes & Softdrink,8.0
+86,Pizza,Pizza Margherita,Tomatensauce & Käse,7.0
+87,Pizza,Pizza Salami,mit Salami,9.0
+98,Pizza,Hawaii,Vorderschinken & Ananas,10.5
+100,Pizza,4 Stagioni,"Artischocken, Champignons, Paprika, Schinken",12.0
+118,Salate,Gemischter Salat,mit Dressing,8.5
+121,Salate,Salat Hawaii,mit Ananas & Käse,11.0
+133,Saucen,Ketchup/Salatmayonnaise,Schale,0.7
+141,Getränke,Ayran,Becher,1.5
+146,Getränke,Wasser,"0,5l",1.5
